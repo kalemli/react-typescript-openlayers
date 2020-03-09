@@ -5,5 +5,6 @@ export type Page = {
 
 export const Pages: Page[] = [
   { title: "Home", path: "/" },
-  { title: "Simple map", path: "/simple-map" }
+  { title: "Simple map", path: "/simple-map" },
+  { title: "Overlay", path: "/overlay" }
 ];
